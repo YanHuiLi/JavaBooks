@@ -1,1 +1,1 @@
-# Thinking-In-Java-Resources
+# JavaBooks
